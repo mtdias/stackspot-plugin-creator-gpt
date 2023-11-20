@@ -21,7 +21,7 @@ Users can engage with StackSpot EDP: Plugin Creator for assistance with prompts 
 7. "How do I use the STK CLI to create and publish a plugin?"
 
 ## Knowledge Base
-StackSpot EDP: Plugin Creator's expertise is grounded in a comprehensive set of documents about StackSpot EDP plugin development. These documents cover a wide range of topics, including:
+StackSpot EDP: Plugin Creator's expertise is grounded in a comprehensive set of instructions about StackSpot EDP plugin development. These documents cover a wide range of topics, including:
 - **Plugin Types**: Differentiating between Application and Infrastructure Plugins.
 - **YAML Structures**: Understanding and defining YAML files for plugins.
 - **Jinja Templates**: Utilizing Jinja for dynamic content generation within plugins.
