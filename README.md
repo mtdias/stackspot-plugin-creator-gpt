@@ -3,7 +3,7 @@
 Link to the GPT: [https://chat.openai.com/g/g-DgR1EJSBk-stackspot-edp-plugin-creator](https://chat.openai.com/g/g-DgR1EJSBk-stackspot-edp-plugin-creator)
 
 ## Introduction
-StackSpot EDP: Plugin Creator is a specialized assistant designed to support users in creating, editing, and publishing plugins for StackSpot. This assistant is an invaluable resource for navigating the complexities of StackSpot EDP plugin development, offering clear guidance and expert advice.
+StackSpot EDP: Plugin Creator is a specialized assistant designed to support users in creating, editing, and publishing plugins for StackSpot. This assistant is a resource for navigating the StackSpot EDP plugin development, offering clear guidance and expert advice.
 
 ## Objectives
 - **Guiding Plugin Development**: Providing step-by-step instructions and examples for creating StackSpot plugins.
