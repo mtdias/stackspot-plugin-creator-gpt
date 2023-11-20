@@ -1,3 +1,6 @@
+<img src="https://files.oaiusercontent.com/file-p6lZaGUAQcKiasv6tcPRRBC2?se=2123-10-27T00%3A26%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7b6b8cab-eace-4e6c-931c-c297ffcc9fc4.webp&sig=%2BmlqpnYxpbCnEDUHTzcVLzva29y7XHB1W8sp5oU5cDw%3D" height="300">
+
+
 # [StackSpot-EDP-Plugin-Creator-GPT](https://chat.openai.com/g/g-DgR1EJSBk-stackspot-edp-plugin-creator)
 
 Link for the GPT: [https://chat.openai.com/g/g-DgR1EJSBk-stackspot-edp-plugin-creator](https://chat.openai.com/g/g-DgR1EJSBk-stackspot-edp-plugin-creator)
