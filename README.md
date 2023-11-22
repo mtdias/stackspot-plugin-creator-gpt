@@ -1,4 +1,4 @@
-# [StackSpot-EDP-Plugin-Creator-GPT](https://chat.openai.com/g/g-DgR1EJSBk-stackspot-edp-plugin-creator)
+# [StackSpot-EDP-plugin-creator-GPT](https://chat.openai.com/g/g-DgR1EJSBk-stackspot-edp-plugin-creator)
 
 Link to the GPT: [https://chat.openai.com/g/g-DgR1EJSBk-stackspot-edp-plugin-creator](https://chat.openai.com/g/g-DgR1EJSBk-stackspot-edp-plugin-creator)
 
